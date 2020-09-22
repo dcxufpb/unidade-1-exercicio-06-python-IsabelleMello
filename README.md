@@ -10,3 +10,4 @@ Conserte o método `dados_loja` em `cupom.py` e os testes em `cupom_test.py` par
 
 ### Comando para execução
 `pytest`
+ 
